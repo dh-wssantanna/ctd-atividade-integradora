@@ -1,0 +1,68 @@
+Atividade Integradora
+Aluno: Alexandre da Costa Pedro
+
+PARTE 1 - Equipamentos de Baixo Custo
+
+(1) Baixo Custo - Intel
+Processador: Core i3 7100
+Placa mãe: Gigabyte GA-A320M-S2H DDR4 Socket AM4 Chipset
+Memória Principal: Memoria Corsair Vengeance LPX 4GB (1x4) DDR4 2400MHz C16 Preta, CMK4GX4M1A2400C16
+Memória Secundária: SSD Duex Black Series DX 120H 120GB 2.5" Sata III 6GB/s, SSD 120GB DX 120H
+
+(2) Baixo Custo - AMD
+Processador: Ryzen 3 2200g
+Placa mãe: ASRock A320M-HD
+Memória Principal: Memoria G.Skill Aegis 4GB DDR4 2400Mhz, F4-2400C15S-4GIS
+Memória Secundária: SSD Team Group MP33 128GB M.2 NVMe PCIe, TM8FP6128G0C101
+
+(3) Baixo Custo
+Processador: Ryzen 3 3200g
+Placa mãe: Gigabyte GA-A320M-S2H
+Memória Principal: Memoria Corsair Vengeance LPX 4GB (1x4) DDR4 2400MHz C14 Preta, CMK4GX4M1A2400C14
+Memória Secundária: SSD Team Group GX2 128GB 2.5" Sata 6GB/s, T253X2128G0C101
+
+PARTE 2 - Equipamentos de Custo Médio
+
+(1) Custo Médio - Intel
+Processador: Core i5 9400F 
+Placa mãe: H310M 6-Channel HD Áudio Codec onboard 10/100/1000 Mbps 1x slot pci Express x16
+Memória Principal: Memoria Team Group T-Force Vulcan Pichau 8GB (1x8) DDR4 2666Mhz Vermelha, TLPRD48G2666HC18H01
+Memória Secundária: SSD Lexar NM700 256GB M.2 2280 PCIe NVMe, LNM700-256RB
+GPU: GeForce GT 1030 2GD4 LP OC
+
+(2) Custo Médio - AMD
+Processador: Processador AMD Ryzen 7 3800XT, 8-Core, 16-Threads, 3.9GHz (4.7GHz Turbo), Cache 36MB, AM4, 100-100000279WOF
+Placa mãe: A320M Asrock
+Memória Principal: Memoria Crucial Ballistix 8GB (1x8) DDR4 2666Mhz Vermelha, BL8G26C16U4R
+Memória Secundária: SSD Lexar NQ100 480GB 2.5" SATA 6GB/s, LNQ100X480G-RNNNG
+GPU: Placa de Video PNY GeForce GTX 1650 GDDR6 4GB 128-bit, VCG16504D6DFPPB
+
+(3) Custo Médio
+Processador: Core i5-10400 (2.9GHz até 4.3GHz, cache de 12M, hexa-core, 10ª geração)
+Placa mãe: Asus PRIME H310M-ER 2.0/BR
+Memória Principal: Memoria Team Group T-Force Dark Z 8GB (1x8) DDR4 3000MHz Cinza, TDZGD48G3000HC16C01
+Memória Secundária: SSD Lexar NM700 256GB M.2 2280 PCIe NVMe, LNM700-256RB
+GPU: GeForce GT 1030 2GD4 LP OC
+
+PARTE 3 - Equipamentos de Alto Custo
+
+(1) Alto Custo - Intel
+Processador: Core i7-10700 
+Placa mãe: Asus Rog Strix Z590-I Gaming WI-Fi DDR4 Socket
+Memória Principal: Memória Adata XPG Spectrix D41 RGB 32GB (2x16GB) DDR4 3200Mhz Cinza, AX4U320016G16A-DT41
+Memória Secundária: SSD Team Group T-Force Cardea Zero Z440 2TB M.2 NVMe PCIe Gen4 x4, TM8FP7002T0C311
+GPU: Gigabyte Radeon RX 6900 XT Gaming OC 16GB
+
+(2) Alto Custo - AMD
+Processador: AMD Ryzen 7 3800XT
+Placa mãe: Asus PRIME A520M-A DDR4 Socket AM4 Chipset
+Memória Principal: Memoria G.Skill Ripjaws V 32GB (2x16) DDR4 4000MHz Preta, F4-4000C16D-32GVKA
+Memória Secundária: SSD Adata XPG GAMMIX S5 2TB M.2 2280 NVMe, AGAMMIXS5-2TT-C
+GPU: AsRock Radeon RX 6900 XT 16GB Phantom
+
+(3) Alto Custo
+Processador: Processador Intel Core i7-11700K, 8-Core, 16-Threads
+Placa mãe: Asus ROG Maximus XII Formula DDR4 Socket
+Memória Principal: Memoria G.Skill Trident Z Neo RGB 32GB (2x16) DDR4 4000Mhz, F4-4000C16D-32GTZNA
+Memória Secundária: SSD Team Group QX 15.3TB 2.5'' Sata 6GB/s, T253X7153T0C101
+GPU: Gigabyte GeForce RTX 3080 Ti Aorus
