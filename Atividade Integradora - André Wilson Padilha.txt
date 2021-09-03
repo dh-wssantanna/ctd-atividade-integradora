@@ -1,0 +1,71 @@
+Atividade Integradora
+Aluno: André Wilson Padilha
+
+
+-- Especificações dos equipamentos baixo custo
+
+INTEL	
+Processador: Core i3 7100
+Placa mae:	MSI H110M PRO-VH
+Memoria principal:	8GB DDR4
+memoria secundaria:	HD Western Digital 500GB  SATA 8MB Cache WD3200AAJS
+
+AMD	
+Processador: Ryzen 3 2200g
+Placa mae:	A320M DDR4 Socket AM4 Chipset AMD A320
+Memoria principal:	8gb DDR4 2666MHZ  
+memoria secundaria:	HD WD Blue, 1TB, 3.5´, SATA - WD10EZEX
+
+AMD	
+Processador: AMD Athlon 320GE, 2-Core, 4-Threads, 3.5GHz, Cache 5MB, AM4, YD32GEC6FHMPK
+Placa mae:	A320M DDR4 Socket AM4 Chipset AMD A320
+Memoria principal:	8GB (1x8) DDR4
+memoria secundaria:	SSD 240GB 2.5" Sata III 6GB/s
+
+
+-- Especificações dos equipamentos medio custo
+
+INTEL	
+Processador	Intel Core i5 
+Placa mae:	Chipset: Intel - Conexões: 06x Usb 2.0, 01x Entrada para fone de ouvido ou caixa de som, 01x Hdmi, 01x Rj-45, 01x Vga
+Memoria principal:	8GB (1x8) DDR4
+memoria secundaria:	 SSD 240GB  
+GPU:	GeForce GT 1030 2GD4 LP OC
+
+AMD	
+Processador: AMD Ryzen 5 1600 Six-Core Processor 3.20GHz
+Placa mae:	A320M Asrock
+Memoria principal:	8GB (1x8) DDR4
+Memoria secundaria:	HD Seagate Surveillance SkyHawk, 1TB, 3.5´, SATA - ST1000VX005
+GPU: Radeon Rx 480
+	
+INTEL 
+Processador: Core i7
+Placa mae: Chipset Intel Conexões 3x audio, 4x USB, LAN e PS2, Gigabit 10/100/1000
+Memoria principal: 16GB
+memoria secundaria:	SSD 240GB
+GPU: Geforce GTX 1650 4GB
+
+
+-- Especificações dos equipamentos alto custo
+
+INTEL	
+Processador: Core i7-10700
+Placa mae:	H510G - LGA1200 ate 11ª Geração (Comet Lake)
+Memoria principal:	 16GB 2666 Mhz
+memoria secundaria:	 SSD WD Red SA500 NAS, 1TB, SATA - WDS100T1R0A
+GPU: nvidia GeForce gtx 1660 6GB GDDR6
+
+AMD	
+Processador:	Amd Ryzen 7 3800xt
+Placa mae:	Asus Prime B450M-GAMING/BR DDR4 Socket AM4 Chipset AMD B450
+Memoria principal: 16GB DDR4
+Memoria secundaria:	SSD WD BLUE 1TB SATA III 6GB/S, WDS100T2B0A
+GPU: Placa de Video Asrock Radeon RX 6700 XT Challenger D 12GB GDDR6 OC 192-bit, 90-GA31ZZ-00UANF
+	
+INTEL
+Processador: I9 9900KF
+Placa mae:	B360M-Gaming 3
+Memoria principal:	 Memoria 2x 16Gb 2666Mhz
+memoria secundaria:	SSD MP 510 480Gb NVME
+GPU: Placa de Video RTX 3070
